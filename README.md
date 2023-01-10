@@ -1,1 +1,1 @@
-# Fraud-detection-analysis
+Created a python program for detecting fraudlent transactions using various python packages like numpy,matplotlib,sklearn for the accuracy level prediction and it works on all python ides but google colab is recmonded for runing the scripts
